@@ -1,0 +1,21 @@
+.footer {
+  padding: 20px 0px;
+  background-color: steelblue;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border-top: solid 2px white;
+}
+
+.footer-logo {
+  width: 250px;
+}
+
+.copyright {
+  display: table;
+  margin: 0;
+  font-family: Cambria;
+  font-size: 20px;
+  color: white;
+}
+
